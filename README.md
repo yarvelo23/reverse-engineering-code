@@ -33,9 +33,4 @@ THEN I understand the codebase
 
 You are required to submit the following:
 
-* A link to a Google Doc or video explaining the application in `Develop/`. 
-
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+* A link to a Google Doc or video explaining the application in `Develop/`: https://docs.google.com/document/d/1eOz3-upDwVvzt0atiZLqRSEupcRzDF9Ka4_4fFc_gKk/edit?usp=sharing
